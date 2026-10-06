@@ -1,4 +1,4 @@
-const CACHE = 'workout-calendar-v1';
+const CACHE = 'workout-calendar-v2';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', e => {
